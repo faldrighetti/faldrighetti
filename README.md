@@ -1,16 +1,26 @@
-### Hi there 👋
+### ¡Hola! Soy Federico 👋
 
-<!--
-**faldrighetti/faldrighetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado desarrollador buscando nuevas oportunidades en el campo IT. Tengo 28 años y estoy estudiando una carrera universitaria en sistemas. Si bien mi enfoque se encuentra en el desarrollo web, me formo para estar disponible para otras ramas de la programación. Además cuento con un nivel C2 de inglés (con certificaciones), lo que me permite comunicarme fluidamente en un entorno internacional.
 
-Here are some ideas to get you started:
+### Sobre mí:
+- Estudio Análisis de Sistemas en la Universidad de Buenos Aires (UBA).
+- Mi lenguaje principal es JavaScript, con proyectos utilizándolo tanto en el front-end como en el back-end (disponibles en este perfil).
+- Me especializo en el desarrollo web pero estoy formándome para estar disponible para cada vez más ramas de la programación.
+- He trabajado con Python y C++ en proyectos universitarios (disponibles en este perfil).
+- Cuento con certificaciones en inglés C2 y en Scrum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Habilidades:
+- Object-Oriented Programming.
+- Front End: JavaScript, HTML5, CSS3.
+- Back End: Java, C++, SQL (PostgreSQL y MySQL), Node.js, Cypress.
+- Herramientas: Git, Scrum (certificado).
+- Idiomas: español (nativo), inglés (certificaciones C2), italiano y alemán (básico).
+
+### Actualmente aprendiendo:
+- Typescript
+- PHP
+- jQuery
+
+### Contacto:
+- Email: f.a.aldrighetti@gmail.com
+- LinkedIn: linkedin.com/in/federico-aldrighetti/
