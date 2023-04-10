@@ -11,7 +11,7 @@ Soy un apasionado desarrollador buscando nuevas oportunidades en el campo IT al 
 
 ### Habilidades:
 - Object-Oriented Programming.
-- Front End: JavaScript, HTML5, CSS3.
+- Front End: JavaScript, HTML5, CSS3, Bootstrap.
 - Back End: Java, C++, SQL (PostgreSQL y MySQL), Node.js, Cypress.
 - Herramientas: Git, Scrum (certificado).
 - Idiomas: español (nativo), inglés (certificaciones C2), italiano y alemán (básico).
