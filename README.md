@@ -1,6 +1,6 @@
 ### ¡Hola! Soy Federico 👋
 
-Soy un apasionado desarrollador buscando nuevas oportunidades en el campo IT. Tengo 28 años y estoy estudiando una carrera universitaria en sistemas. Si bien mi enfoque se encuentra en el desarrollo web, me formo para estar disponible para otras ramas de la programación. Además cuento con un nivel C2 de inglés (con certificaciones), lo que me permite comunicarme fluidamente en un entorno internacional.
+Soy un apasionado desarrollador buscando nuevas oportunidades en el campo IT al tiempo que estudio Análisis de Sistemas en la UBA. Si bien mi enfoque se encuentra en el desarrollo web, me formo para estar disponible para otras ramas de la programación. Además cuento con un nivel C2 de inglés (con certificaciones), lo que me permite comunicarme fluidamente en un entorno internacional.
 
 ### Sobre mí:
 - Estudio Análisis de Sistemas en la Universidad de Buenos Aires (UBA).
