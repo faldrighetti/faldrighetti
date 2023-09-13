@@ -11,15 +11,14 @@ Soy un apasionado desarrollador buscando nuevas oportunidades en el campo IT al 
 
 ### Habilidades:
 - Object-Oriented Programming.
-- Front End: JavaScript, HTML5, CSS3, Bootstrap.
+- Front End: JavaScript, HTML5, CSS3, Bootstrap, Angular, Ionic.
 - Back End: Java, C++, SQL (PostgreSQL y MySQL), Node.js, Cypress.
 - Herramientas: Git, Scrum (certificado).
 - Idiomas: español (nativo), inglés (certificaciones C2), italiano y alemán (básico).
 
 ### Actualmente aprendiendo:
 - Typescript
-- PHP
-- jQuery
+- React
 
 ### Contacto:
 - Email: f.a.aldrighetti@gmail.com
