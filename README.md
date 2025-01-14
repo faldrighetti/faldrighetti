@@ -5,8 +5,8 @@ Soy un desarrollador web/mobile apasionado por aprender y crecer en el campo IT.
 ### Hi! I'm Federico 👋
 I'm a passionate web and mobile developer who is constantly learning and growing in the IT field. Currently, I'm pursuing a Computer Science degree at Universitdad de Buenos Aires (UBA), which helps me add new perspectives into various aspects of programming and tech. While my primary focus is web and mobile development, I'm willing to learn about other programming areas to broaden my skills and improve my problem-solving capability.
 
-### Habilidades | Skills:
-- Front-end: JavaScript, TypeScript, React, Angular, HTML5, CSS3, Bootstrap, Ionic.
+### Lenguajes y herramientas | Tools & Technologies::
+- Front-end: Angular, React, Ionic.
 - Back-end: .NET, Node.js.
 - Databases: SQL (PostgreSQL, MySQL).
 - Testing: Cypress.
