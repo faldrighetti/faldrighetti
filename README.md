@@ -1,25 +1,28 @@
 ### ¡Hola! Soy Federico 👋
 
-Soy un apasionado desarrollador buscando nuevas oportunidades en el campo IT al tiempo que estudio Análisis de Sistemas en la UBA. Si bien mi enfoque se encuentra en el desarrollo web, me formo para estar disponible para otras ramas de la programación. Además cuento con un nivel C2 de inglés (con certificaciones), lo que me permite comunicarme fluidamente en un entorno internacional.
+Soy un desarrollador web/mobile apasionado por aprender y crecer en el campo IT. Actualmente estoy estudiando Análisis de Sistemas en la Universidad de Buenos Aires (UBA), lo que me permite profundizar en diversos aspectos de la programación y la tecnología. Aunque mi enfoque principal es el desarrollo web y de aplicaciones mobile, estoy expandiendo mis conocimientos hacia otras áreas de la programación para aportar a mi perfil profesional y a mi capacidad de resolución de problemas.
 
-### Sobre mí:
-- Estudio Análisis de Sistemas en la Universidad de Buenos Aires (UBA).
-- Mi lenguaje principal es JavaScript, con proyectos utilizándolo tanto en el front-end como en el back-end (disponibles en este perfil).
-- Me especializo en el desarrollo web pero estoy formándome para estar disponible para cada vez más ramas de la programación.
-- He trabajado con Python y C++ en proyectos universitarios (disponibles en este perfil).
-- Cuento con certificaciones en inglés C2 y en Scrum.
+### Hi! I'm Federico 👋
+I'm a passionate web and mobile developer who is constantly learning and growing in the IT field. Currently, I'm pursuing a Computer Science degree at Universitdad de Buenos Aires (UBA), which helps me add new perspectives into various aspects of programming and tech. While my primary focus is web and mobile development, I'm willing to learn about other programming areas to broaden my skills and improve my problem-solving capability.
 
-### Habilidades:
-- Object-Oriented Programming.
-- Front End: JavaScript, HTML5, CSS3, Bootstrap, Angular, Ionic.
-- Back End: Java, C++, SQL (PostgreSQL y MySQL), Node.js, Cypress.
-- Herramientas: Git, Scrum (certificado).
-- Idiomas: español (nativo), inglés (certificaciones C2), italiano y alemán (básico).
+### Habilidades | Skills:
+- Front-end: JavaScript, TypeScript, React, Angular, HTML5, CSS3, Bootstrap, Ionic.
+- Back-end: .NET, Node.js.
+- Databases: SQL (PostgreSQL, MySQL).
+- Testing: Cypress.
+- Otros | Others: Git, principios de programación orientada a objetos (OOP), metodologías ágiles (Scrum).
 
-### Actualmente aprendiendo:
-- Typescript
+### Actualmente aprendiendo | Currently learning:
 - React
+- Svelte
+- Go
 
-### Contacto:
+### Idiomas | Languages:
+- Español (nativo)
+- Inglés (C2 certificado) | English (C2 certified)
+
+### Contacto | Contact:
 - Email: f.a.aldrighetti@gmail.com
 - LinkedIn: linkedin.com/in/federico-aldrighetti/
+
+¡Explorá mis proyectos y no dudes en contactarme! | Feel free to explore my projects and reach out!
